@@ -1,0 +1,26 @@
+﻿<xml>
+<Task>
+  <Id>1</Id>
+  <Title>fgdg</Title>
+  <Description>gfgfdgdfg</Description>
+  <StartDate>1978-06-26</StartDate>
+  <EndDate>1978-06-29</EndDate>
+  <State>InProgress</State>
+</Task>
+  <Task>
+    <Id>2</Id>
+    <Title>fgfdgd6t556dg</Title>
+    <Description>gfgfdgdfg</Description>
+    <StartDate>1978-06-26</StartDate>
+    <EndDate>1978-06-29</EndDate>
+    <State>Close</State>
+  </Task>
+  <Task>
+    <Id>3</Id>
+    <Title>fgfhfxy54645dg</Title>
+    <Description>gfgfdgfdxhxchcvnbdfg</Description>
+    <StartDate>1978-06-26</StartDate>
+    <EndDate>1978-06-29</EndDate>
+    <State>Open</State>
+  </Task>
+</xml>
